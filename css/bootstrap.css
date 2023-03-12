@@ -1,0 +1,78 @@
+body {
+    font-size: .875rem;
+}
+
+p {
+    margin-top: revert;
+}
+
+.card {
+    border: 0 solid transparent;
+    border-radius: 0;
+}
+
+.card-footer, .card-header {
+    padding: .75rem 1.57rem;
+    background-color: rgba(0, 0, 0, .03);
+}
+
+.card-header {
+    border-bottom: 0 solid transparent;
+}
+
+.card-body {
+    padding: 1.57rem;
+}
+
+.h4, h4 {
+    font-size: 1.125rem;
+}
+
+.form-control {
+    font-size: .875rem;
+}
+
+.input-group-text {
+    font-size: .875rem;
+    background-color: #f7fafc;
+    border: 1px solid #e9ecef;
+}
+
+.btn {
+    font-size: .875rem;
+}
+
+.btn-group-sm > .btn, .btn-sm {
+    font-size: .76563rem;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #8898aa;
+    border-color: #8898aa;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #72859a;
+    border-color: #6a7e95;
+}
+
+.btn-outline-secondary {
+    color: #8898aa;
+    border-color: #8898aa;
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #8898aa;
+    border-color: #8898aa;
+}
+
+.btn, .btn-link, .custom-select, .dropdown-item, .form-control, .input-group-text {
+    font-weight: 400;
+}
+
+.btn-link {
+    color: #707cd2;
+}

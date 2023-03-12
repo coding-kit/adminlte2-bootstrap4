@@ -1,0 +1,32 @@
+{
+    "name": "adminlte2-bootstrap4",
+    "version": "2.0.0",
+    "description": "AdminLTE 2 using bootstrap 4",
+    "main": "index.js",
+    "style": "css/styles.css",
+    "scripts": {},
+    "keywords": [
+        "adminlte",
+        "bootsrap 4"
+    ],
+    "author": {
+        "name": "Ferdous Anam",
+        "email": "ferdous.anam@gmail.com",
+        "url": "https://ferdousanam.gitlab.io"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "@fancyapps/fancybox": "^3.0.47",
+        "bootstrap": "^4.6.2",
+        "font-awesome": "^4.7.0",
+        "highcharts": "^5.0.14",
+        "jquery": "^3.6.4",
+        "jquery-datetimepicker": "^2.5.20",
+        "jquery-validation": "^1.17.0",
+        "jquery-ui": "^1.10.3",
+        "popper.js": "^1.14.7",
+        "select2": "^4.0.4",
+        "summernote": "^0.8.10",
+        "sweetalert2": "^11.7.3"
+    }
+}

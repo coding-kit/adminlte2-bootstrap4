@@ -1,0 +1,10 @@
+window.$ = window.jQuery = require('jquery');
+window.Popper = require('popper.js');
+require('bootstrap');
+require('jquery-ui');
+require('jquery-validation');
+require('jquery-datetimepicker');
+require('select2');
+require('summernote/dist/summernote-bs4');
+window.Swal = require('sweetalert2');
+require('./adminlte');
